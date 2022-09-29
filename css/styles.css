@@ -1,0 +1,60 @@
+a{
+  text-decoration: none;
+}
+
+
+.children{
+ background-image: url("../images/children.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.movies{
+ background-image: url("../images/movies.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.series{
+    background-image: url("../images/series.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sports{
+    background-image: url("../images/football.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+ body{
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+ }
+
+ .card{
+  text-align: left;
+  padding-left: 10px;
+  color: #fff;
+  padding-top: 0;
+  box-shadow: none;
+ }
+
+ .card .textincard, .bigtextincard{
+  padding: 5px 0;
+  margin: 10px;
+ }
+
+ .transbox{
+  background-size: 100%;
+  background: rgb(21, 9, 36, .4);
+  margin-left: -10px;
+ }
+
+ .transboard{
+  background: rgb(21, 9, 36), .2;
+  margin-left: -10px;
+ }
+
+      
